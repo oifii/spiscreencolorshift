@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TimerDriven">
+</Property><Property Name="Solution File" Value="C:\Program Files\Microsoft SDKs\Windows\v7.1\Samples\multimedia\WindowsAnimation\TimerDriven\TimerDriven.sln">
+</Property><Property Name="Date" Value="Wednesday, March 26, 2014">
+</Property><Property Name="Time" Value="13:41 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TimerDriven.sln" Description="File successfully backed up as C:\Program Files\Microsoft SDKs\Windows\v7.1\Samples\multimedia\WindowsAnimation\TimerDriven\TimerDriven.sln.old">
+</Event><Event ErrorLevel="0" Project="TimerDriven" Source="TimerDriven.vcproj" Description="Converting project file 'C:\Program Files\Microsoft SDKs\Windows\v7.1\Samples\multimedia\WindowsAnimation\TimerDriven\TimerDriven.vcproj'.">
+</Event><Event ErrorLevel="1" Project="TimerDriven" Source="TimerDriven.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="TimerDriven" Source="TimerDriven.vcproj" Description="Done converting to new project file 'C:\Program Files\Microsoft SDKs\Windows\v7.1\Samples\multimedia\WindowsAnimation\TimerDriven\TimerDriven.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="TimerDriven" Source="TimerDriven.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TimerDriven.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TimerDriven.sln" Description="Converted">
+</Event></UpgradeLog>

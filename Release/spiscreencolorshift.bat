@@ -1,0 +1,1 @@
+start spiscreencolorshift.exe 180.0 1.0 100 100 1800 900 220 0 0 0  
